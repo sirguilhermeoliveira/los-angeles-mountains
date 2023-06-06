@@ -58,3 +58,14 @@
   margin-top: -15px;
   background-color: var(--white-color);
 }
+
+@media (max-width: 420px) {
+  .sub-container-header {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -116px;
+  }
+  .container-side-text-header {
+    flex-direction: column;
+  }
+}
