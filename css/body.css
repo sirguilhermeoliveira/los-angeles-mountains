@@ -1,0 +1,87 @@
+@import url('global-styles.css');
+
+.first-image-mountains {
+  max-width: 1024px;
+  max-height: 100%;
+  display: flex;
+  margin: 0 auto;
+}
+.container-text-first-image-mountains {
+  margin-top: 100px;
+  text-align: center;
+  position: relative;
+  margin-top: -550px;
+  font-size: 50px;
+  font-weight: bold;
+}
+.text-first-image-mountains {
+  color: var(--gray-color);
+  font-size: 45px;
+}
+.text-first-image-mountains-second {
+  color: var(--blue-darkest-color);
+  margin-top: -60px;
+}
+
+.custom-sub-container-header {
+  max-width: 950px;
+  justify-content: space-between;
+  margin-left: 150px;
+  margin-top: 10px;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 400px;
+}
+
+.custom-side-text-header {
+  margin-left: 50px;
+  color: var(--blue-darkest-color);
+  font-weight: bold;
+  cursor: pointer;
+}
+.custom-side-text-header-underline {
+  padding: 1px;
+  border-radius: 5px;
+  width: 110px;
+  margin-left: 60px;
+  margin-top: -15px;
+  background-color: var(--blue-darkest-color);
+}
+.custom-side-text-header-underline-second {
+  padding: 1px;
+  border-radius: 5px;
+  width: 90px;
+  margin-left: 60px;
+  margin-top: -15px;
+  background-color: var(--blue-darkest-color);
+}
+.custom-container-header {
+  width: 100%;
+  background-color: var(--white-color);
+}
+
+.text-first-image-mountains {
+  color: var(--gray-color);
+  font-size: 45px;
+}
+.text-first-image-mountains-second {
+  color: var(--blue-darkest-color);
+  margin-top: -60px;
+}
+.container-side-left-header {
+  display: flex;
+  flex-direction: row;
+}
+.custom-side-left-text-first {
+  color: var(--gray-color);
+  font-size: 8.5px;
+}
+.custom-side-left-text-second {
+  color: var(--blue-darkest-color);
+  font-size: 10px;
+  margin-top: -10px;
+}
+.container-custom-side-left-text {
+  margin-top: 8px;
+  margin-left: 5px;
+}

@@ -1,0 +1,60 @@
+@import url('global-styles.css');
+
+.container-header {
+  width: 100%;
+}
+
+.sub-container-header {
+  max-width: 950px;
+  justify-content: space-between;
+  margin-left: 150px;
+  margin-top: 10px;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  align-self: center;
+  justify-items: center;
+  margin-bottom: -60px;
+  z-index: 2;
+  position: relative;
+}
+
+.icon-los-angeles-mountains {
+  max-width: 30px;
+  max-height: 30px;
+  margin-top: 10px;
+}
+
+.container-side-text-header {
+  display: flex;
+  flex-direction: row;
+}
+
+.container-text-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.side-text-header {
+  margin-left: 50px;
+  color: var(--white-color);
+  font-weight: bold;
+  cursor: pointer;
+}
+.side-text-header-underline {
+  padding: 1px;
+  border-radius: 5px;
+  width: 110px;
+  margin-left: 60px;
+  margin-top: -15px;
+  background-color: var(--white-color);
+}
+.side-text-header-underline-second {
+  padding: 1px;
+  border-radius: 5px;
+  width: 90px;
+  margin-left: 60px;
+  margin-top: -15px;
+  background-color: var(--white-color);
+}

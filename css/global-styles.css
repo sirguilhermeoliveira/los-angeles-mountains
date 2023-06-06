@@ -1,0 +1,11 @@
+:root {
+  --gray-color: #4d4d4d;
+  --blue-darkest-color: #404e6c;
+  --blue-dark-color: #667795;
+  --black-color: #000;
+  --white-color: #fff;
+}
+
+.main-container {
+  margin: -10px;
+}
