@@ -5,6 +5,7 @@
     color: var(--blue-dark-color);
     font-weight: bold;
     cursor: pointer;
+    margin-top: 25px;
   }
   .container-footer {
     width: 100%;
@@ -26,6 +27,6 @@
   .custom-icon-los-angeles-mountains {
     max-width: 30px;
     max-height: 30px;
-    margin-top: 20px;
+    margin-top:20px;
     margin-right: 5px;
   }
