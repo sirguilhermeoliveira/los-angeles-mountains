@@ -4,3 +4,8 @@
     align-items: center;
   }
 }
+@media (max-width: 670px) {
+  .second-image-middle-text {
+    margin-top: 150px;
+  }
+}
