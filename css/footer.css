@@ -1,1 +1,31 @@
 @import url('global-styles.css');
+
+.footer-left-text {
+    margin-left: 50px;
+    color: var(--blue-dark-color);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .container-footer {
+    width: 100%;
+    background-color: var(--blue-darkest-color);
+  }
+
+  .footer-right-text  {
+    color: var(--blue-dark-color);
+    font-size: 15.5px;
+    font-weight:bold;
+  }
+  .footer-right-text-second {
+    color: var(--blue-dark-color);
+    font-size: 17px;
+    margin-top: -20px;
+    font-weight:bold;
+  }
+
+  .custom-icon-los-angeles-mountains {
+    max-width: 30px;
+    max-height: 30px;
+    margin-top: 20px;
+    margin-right: 5px;
+  }
